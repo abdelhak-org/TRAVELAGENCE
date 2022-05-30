@@ -1,0 +1,50 @@
+.section-four {
+    width: 100vw;
+    height:auto;
+  
+  }
+  .intro {
+    width: 100%;
+    height: 72px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#292929;
+  }
+  .intro h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: #ffffff;
+    font-family: var(--mainFont);
+    background-color: #150460;
+  
+  }
+  .section-four .container {
+    width: 90%;
+    height: auto;
+    display: flex;
+    justify-content:space-between ;
+    align-items: flex-start;
+    margin: 40px auto;
+    flex-wrap: wrap;
+  }
+  .section-four .container .new{
+    width: 45%;
+    height: auto;
+    background-color: #ffffff;
+    margin-bottom: 16px;
+  }
+  .section-four h3{
+    font-size:20px;
+    font-family: var(--outFitFont);
+    color: #ffffff;
+    margin-bottom: 16px;
+    background-color: #150460;
+    padding: 12px 16px;
+  }
+  .section-four .container  p{
+    color: #212121;
+    text-align: justify;
+    padding:16px;
+    background-color: #ffffff;
+  }

@@ -1,0 +1,30 @@
+@import "./nav.css";
+@import url("./sectionone.css");
+@import url("./sectiontwo.css");
+@import url("./sectionthree.css");
+@import url("./footer.css");
+@import url("./sectionfour.css");
+:root {
+--mainFont: 'Kaushan Script', cursive;
+--outFitFont: 'Outfit', sans-serif;
+--secondaryFont: 'Poppins', sans-serif;
+--mainColor:#696969;
+--secondaryColor : #ffffff;
+--bgColor : #150460;
+}
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-size: 15px;
+}
+body {
+
+  background-color:#e2e2e2;
+}
+i{
+  margin: 12px 16px;
+}
+
+
+/* section four new section*/
